@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 .about img{
     width: 25px;
         
@@ -161,74 +160,4 @@ body{
     .footer{
         padding: 40px 0px;
     }
-=======
-body{
-    font-family: "Overpass", sans-serif;
-    font-optical-sizing: auto;
-    font-weight: 446;
-    font-style: normal;
-}
-
-.links{
-    display: inline-block;
-}
-h1{
-    display: inline-block;
-    font-weight: 300;
-}
-.links li{
-    display: inline-block;
-}
-.links a{
-    color: black;
-    text-decoration: none;
-    font-size: 20px;
-    margin: 0px 8px;
-}
-a.active{
-    border-bottom: 1px solid;
-}
-
-.kart{
-    display: inline-block;
-    box-sizing: border-box;
-    width: 49%;
-    padding: 25px;
-}
-.kart img{
-    width : 100%;
-    height: 500px;
-    object-fit: cover;
-}
-.kart img:hover{
-    opacity:0.9;
-}
-.kart h2{
-    margin: 8px 0px 16px 0px;
-    font-weight: 300;
-}
-header{
-    margin: 32px;
-}
-.why{
-    width: 50%;
-    margin: 100px 200px ;
-}
-.why h3:nth-child(1){
-    font-weight: 300;
-    font-style: italic;
-}
-.message{
-    color: red;
-    font-weight: 300;
-    font-size: 32px;
-    font-style: italic;
-    margin-top: 0px;
-    margin-bottom: 100px;
-    border-bottom: 1px solid black;
-}
-.contact p {
-    margin: 0px;
-    font-weight: 600;
->>>>>>> 78d941f24645c1a05e78bc5f48477709deff8d5d
 }
